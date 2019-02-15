@@ -103,3 +103,21 @@ ERROR - 2019-02-15 11:00:25 --> Query error: Duplicate entry '' for key 'ktp' - 
 ERROR - 2019-02-15 11:00:43 --> Query error: Duplicate entry '' for key 'ktp' - Invalid query: INSERT INTO `t_pelanggan` (`nama_depan`, `nama_belakang`, `alamat`, `telepon`) VALUES ('Bagas', 'Dewonggono', 'Bandung													', '081989992238')
 ERROR - 2019-02-15 11:00:59 --> Query error: Duplicate entry '' for key 'ktp' - Invalid query: INSERT INTO `t_pelanggan` (`nama_depan`, `nama_belakang`, `alamat`, `telepon`) VALUES ('Bagas', 'Dewonggono', 'Bandung													', '081989992238')
 ERROR - 2019-02-15 11:03:19 --> Query error: Duplicate entry '3217082508720088' for key 'ktp' - Invalid query: INSERT INTO `t_pelanggan` (`ktp`, `nama_depan`, `nama_belakang`, `alamat`, `telepon`) VALUES ('3217082508720088', 'Haerul', 'Yuyung', 'Bandung													', '08999273749')
+ERROR - 2019-02-15 11:06:31 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:06:32 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:06:32 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:08:03 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:08:03 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 4 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 4 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 11:10:09 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: kode_pelanggan D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 21
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: ktp D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 26
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: nama_depan D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 32
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: nama_belakang D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 38
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: alamat D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 44
+ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: telepon D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 50
+ERROR - 2019-02-15 11:14:32 --> Query error: Unknown column 'name' in 'field list' - Invalid query: INSERT INTO `t_pelanggan` (`name`, `nickname`) VALUES ('hr', 'HARA')
