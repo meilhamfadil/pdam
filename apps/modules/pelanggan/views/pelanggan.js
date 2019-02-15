@@ -1,33 +1,32 @@
-let deviceTable;
+var myTable;
 
 $(function () {
 
-    deviceTable = table.itable({
-        source: "devices/listData",
+    myTable = table.itable({
+        source: "pelanggan/listData",
         action: {
             detail: {
-                link: "devices/detail",
+                link: "pelanggan/detail",
                 callback: function (id, link) {
                     openDetailModal(link, function (result) {
-                        modalDetail.find(".modal-title").text("Kode Device : " + result.kode_device);
-                        var body = "Nama Device : " + result.nama_device + "<br>";
-                        body += "Nama File : " + result.nama_file
-                        modalDetail.find(".modal-body").html(body);
+                        console.log(result);
+                        modalDetail.find(".modal-title").text(result.nama_depan + " " + result.nama_belakang);
+                        modalDetail.find(".modal-body").text(result.alamat);
                         modalDetail.modal();
                     })
                 }
             },
             edit: {
-                link: "devices/form",
+                link: "pelanggan/form",
                 callback: function (id) {
-                    conform.load(baseurl + "devices/form/" + id, function () {
+                    conform.load(baseurl + "pelanggan/form/" + id, function () {
                         contable.swap(conform);
                         formOpened();
                     })
                 }
             },
             delete: {
-                link: "devices/delete",
+                link: "pelanggan/delete",
                 callback: function (result) {
                     toast(result.status.toLowerCase(), result.message);
                 }
@@ -35,16 +34,14 @@ $(function () {
         },
         customize: [{
             targets: [1],
-            render: function (data, type, row, meta) {
-                return data.pad(4);
-            },
             class: "text-center",
-            width: "150px"
+            visible: false,
+            orderable: false
         }]
     });
 
     $("#openForm").on("click", function () {
-        conform.load(baseurl + "devices/form", function () {
+        conform.load(baseurl + "pelanggan/form", function () {
             contable.swap(conform);
             formOpened();
         })
@@ -65,7 +62,7 @@ function formOpened() {
         var form = $(this);
         form.defaultFormSend(function (result) {
             if (result.status == "Success") {
-                deviceTable.ajax.reload();
+                myTable.ajax.reload();
                 conform.swap(contable);
                 toast("success", result.message);
             } else {

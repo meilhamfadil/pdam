@@ -4,15 +4,7 @@
             <div class="card-header">
                 <div class="row">
                     <div class="col">
-                        <i class="zmdi zmdi-apps zmdi-hc-lg"></i> Data Monitor
-                    </div>
-                    <div class="col col-sm-3" id="device-list">
-                        <label style="line-height: 32px">Device&nbsp;&nbsp;&nbsp;</label>
-                        <select class="form-control auto-width" id="devices">
-                            <?php foreach($files as $f): ?>
-                                <option value="<?= $f->kode_device ?>"><?= $f->nama_device ?></option>
-                            <?php endforeach; ?>
-                        </select>
+                        <i class="zmdi zmdi-apps zmdi-hc-lg"></i> Data Pelanggan
                     </div>
                 </div>
             </div>

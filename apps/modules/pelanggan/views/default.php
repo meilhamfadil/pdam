@@ -4,11 +4,11 @@
             <div class="card-header">
                 <div class="row">
                     <div class="col">
-                        <i class="zmdi zmdi-apps zmdi-hc-lg"></i> Daftar Aturan
+                        <i class="zmdi zmdi-apps zmdi-hc-lg"></i> Data Pelanggan
                     </div>
                     <div class="col col-sm-5 text-right">
                         <button class="btn btn-sm btn-primary" id="openForm">
-                            <i class="zmdi zmdi-plus"></i> Tambah Aturan
+                            <i class="zmdi zmdi-plus"></i> Tambah Pelanggan
                         </button>
                     </div>
                 </div>

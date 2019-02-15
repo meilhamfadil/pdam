@@ -78,7 +78,7 @@ class Mod extends CI_Model{
             if(is_object($query)){
                 return $query->$func();
             } else {
-                exit(show_error($query->error()));
+                exit(show_error("Query Error"));
             }
         } else {
             exit(show_error("Error while fetching, there is no fetching " . $func));

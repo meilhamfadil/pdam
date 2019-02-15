@@ -16,21 +16,20 @@ class Home extends MX_Controller {
 			"breadcrumb" => array("Dashboard"),
 			"libs" => array("datatable"),
 			"js" => "home.js",
-			"table" => "table|No,Event,Info,Detail,User,Time,Action",
-			"files" => collect()->t_devices()
+			"table" => "table|No,Nama,Alamat,Telepon,"
 		);
 		render($page);
 	}
 
-	public function listData($kode_device){
+	public function listData(){
 		isajax();
-		$kolom = "a.*";
-		$where = "WHERE kode_rule is not null AND kode_device = '$kode_device'";
+		$kolom = "a.*, CONCAT(a.nama_depan,' ',a.nama_belakang) as nama_lengkap";
+		$where = "";
 		$order = "";
 
-		$sTable = "vdata";
-		$aColumns = array("no","kode_data","data_value","regex_filter","filter_rendering");
-		$sIndexColumn = "kode_data";
+		$sTable = "t_pelanggan";
+		$aColumns = array("no","kode_pelanggan", "nama_lengkap","alamat","telepon","kode_pelanggan");
+		$sIndexColumn = "kode_pelanggan";
 		$tQuery = "SELECT * FROM ("
 				. "SELECT @row := @row + 1 AS no, $kolom "
 				. "FROM $sTable a, (SELECT @row := 0) AS r $where $order) as tab WHERE 1=1";
@@ -40,8 +39,8 @@ class Home extends MX_Controller {
 	public function detail(){
 		isajax();
 		$kode = exit_if_segment_empty(3);
-		$where = "kode_data = " . intval($kode,16);
-		jsonify(single()->vdata($where));
+		$where = "kode_pelanggan = " . intval($kode,16);
+		jsonify(single()->t_pelanggan($where));
 	}
 
 	public function logout(){

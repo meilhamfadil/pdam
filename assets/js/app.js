@@ -1,4 +1,4 @@
-var baseurl = location.origin + "/watchlog/";
+var baseurl = location.origin + "/pdam/";
 var assets = baseurl + "assets/";
 
 $.fn.swap = function (changeTo) {
