@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Watermeter extends MX_Controller {
+class Change extends MX_Controller {
 
 	public function __construct(){
 		parent::__construct();
@@ -12,11 +12,11 @@ class Watermeter extends MX_Controller {
 	
 	public function index(){
 		$page = array(
-			"mtoggle" => "watermeter",
-			"breadcrumb" => array("Watermeter"),
+			"mtoggle" => "change",
+			"breadcrumb" => array("Pergantian Watermeter"),
 			"libs" => array("datatable"),
-			"js" => "watermeter.js",
-			"table" => "table|ID,,Nickname,Name,"
+			"js" => "pergantian.js",
+			"table" => "table|No,,Nama Pelanggan,Alamat,Angka Awal,Angka Akhir,V1,V2,V3,"
 		);
 		render($page);
 	}
@@ -27,9 +27,9 @@ class Watermeter extends MX_Controller {
 		$where = "";
 		$order = "";
 
-		$sTable = "t_watermeter";
-		$aColumns = array("kode_watermeter","kode_watermeter","nickname","name");
-		$sIndexColumn = "kode_watermeter";
+		$sTable = "vpergantian";
+		$aColumns = array("no","kode_pergantian","nama_pelanggan","alamat","angka_awal","angka_baru","verifikasi_pergantian","verifikasi_pemasangan","verifikasi_selesai","kode_pergantian");
+		$sIndexColumn = "kode_pergantian";
 		$tQuery = "SELECT * FROM ("
 				. "SELECT @row := @row + 1 AS no, $kolom "
 				. "FROM $sTable a, (SELECT @row := 0) AS r $where $order) as tab WHERE 1=1";
@@ -51,8 +51,9 @@ class Watermeter extends MX_Controller {
 	public function detail(){
 		isajax();
 		$kode = exit_if_segment_empty(3);
-		$where = "kode_watermeter = " . intval($kode,16);
-		jsonify(single()->t_watermeter($where));
+		$where = "kode_pergantian = " . intval($kode,16);
+		$detail["data"] = (Array) single()->vpergantian($where);
+		block("detail", $detail);
 	}
 
 	public function save(){

@@ -22,6 +22,13 @@ if(!function_exists("script")){
     }
 }
 
+if(!function_exists("image")){
+    function image($url, $alt = ""){
+        $base = get_instance()->config->item("file");
+        return '<img class="img-fluid" src="' . base_url($base . "/" . $url) . '" alt="' . $alt . '">';
+    }
+}
+
 if(!function_exists("publik")){
     function publik(){
         $base = get_instance()->config->item("file");

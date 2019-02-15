@@ -54,6 +54,6 @@ $config['proxy_ips'] = '';
 $config['modules_locations'] = array(APPPATH.'modules/' => '../modules/');
 
 // custom
-$config['vendors'] = "vendors";
+$config['vendors'] = "vendor";
 $config['assets'] = "assets";
 $config['file'] = "docs";

@@ -121,3 +121,90 @@ ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: nama_be
 ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: alamat D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 44
 ERROR - 2019-02-15 11:13:30 --> Severity: Notice --> Undefined variable: telepon D:\Development\htdocs\pdam\apps\modules\watermeter\views\form.php 50
 ERROR - 2019-02-15 11:14:32 --> Query error: Unknown column 'name' in 'field list' - Invalid query: INSERT INTO `t_pelanggan` (`name`, `nickname`) VALUES ('hr', 'HARA')
+ERROR - 2019-02-15 11:19:53 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:19:54 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:21:25 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:21:25 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:21:44 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 11:21:44 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 13:00:42 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:00:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:00:42 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:00:55 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:00:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:00:55 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:01:09 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:01:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:01:09 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:01:39 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:01:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:01:39 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:01:48 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:01:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:01:48 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:01:55 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:01:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_waterme' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM t_watermeter a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:01:55 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:02:19 --> Severity: Notice --> Undefined variable: sIndexColumn D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 36
+ERROR - 2019-02-15 13:02:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM vperganti' at line 1 - Invalid query: SELECT COUNT() as aTot FROM (SELECT * FROM (SELECT @row := @row + 1 AS no, a.* FROM vpergantian a, (SELECT @row := 0) AS r  ) as tab WHERE 1=1) as sukuquery WHERE 1=1 
+ERROR - 2019-02-15 13:02:19 --> Severity: Error --> Call to a member function row() on boolean D:\Development\htdocs\pdam\apps\libraries\Datatable.php 191
+ERROR - 2019-02-15 13:17:18 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 13:17:18 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 13:50:46 --> Severity: Warning --> require(D:\Development\htdocs\pdam\apps\/libraries/REST_Controller.php): failed to open stream: No such file or directory D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:50:46 --> Severity: Compile Error --> require(): Failed opening required 'D:\Development\htdocs\pdam\apps\/libraries/REST_Controller.php' (include_path='C:\xampp_5.6\php\PEAR') D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:50:59 --> Severity: Warning --> require(D:\Development\htdocs\pdam\apps\libraries/REST_Controller.php): failed to open stream: No such file or directory D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:50:59 --> Severity: Compile Error --> require(): Failed opening required 'D:\Development\htdocs\pdam\apps\libraries/REST_Controller.php' (include_path='C:\xampp_5.6\php\PEAR') D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:51:04 --> Severity: Warning --> require(D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php): failed to open stream: No such file or directory D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:51:04 --> Severity: Compile Error --> require(): Failed opening required 'D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php' (include_path='C:\xampp_5.6\php\PEAR') D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:52:40 --> Severity: Warning --> require(D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php): failed to open stream: No such file or directory D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:52:40 --> Severity: Compile Error --> require(): Failed opening required 'D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php' (include_path='C:\xampp_5.6\php\PEAR') D:\Development\htdocs\pdam\apps\controllers\Rest.php 6
+ERROR - 2019-02-15 13:52:50 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:53:00 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:53:04 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:53:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\Development\htdocs\pdam\apps\controllers\Rest.php:7) D:\Development\htdocs\pdam\vendor\ci\core\Common.php 573
+ERROR - 2019-02-15 13:53:43 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 10
+ERROR - 2019-02-15 13:54:01 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:54:11 --> Severity: Error --> Class 'Rest_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:54:45 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:55:15 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:55:45 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:42 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:43 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:43 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:44 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:44 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:44 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:46 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:56:49 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:57:05 --> Severity: Error --> Class 'REST_Controller' not found D:\Development\htdocs\pdam\apps\controllers\Rest.php 9
+ERROR - 2019-02-15 13:58:18 --> Severity: Error --> Class 'Restserver\Libraries\Format' not found D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php 732
+ERROR - 2019-02-15 13:59:26 --> Severity: Error --> Class 'Restserver\Libraries\Format' not found D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php 732
+ERROR - 2019-02-15 13:59:28 --> Severity: Error --> Class 'Restserver\Libraries\Format' not found D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php 732
+ERROR - 2019-02-15 13:59:28 --> Severity: Error --> Class 'Restserver\Libraries\Format' not found D:\Development\htdocs\pdam\apps\libraries\REST_Controller.php 732
+ERROR - 2019-02-15 14:12:34 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 14:12:34 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 14:13:00 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 163
+ERROR - 2019-02-15 14:13:00 --> Severity: Notice --> Undefined offset: 5 D:\Development\htdocs\pdam\apps\libraries\Datatable.php 164
+ERROR - 2019-02-15 14:42:03 --> 404 Page Not Found: 
+ERROR - 2019-02-15 14:42:03 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 14:44:46 --> Severity: Notice --> Undefined variable: data D:\Development\htdocs\pdam\apps\modules\change\controllers\Change.php 55
+ERROR - 2019-02-15 14:44:46 --> Severity: Warning --> extract() expects parameter 1 to be array, null given D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 2
+ERROR - 2019-02-15 14:44:46 --> Severity: Notice --> Undefined variable: nama_pelanggan D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 16
+ERROR - 2019-02-15 14:45:00 --> Severity: Warning --> extract() expects parameter 1 to be array, object given D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 2
+ERROR - 2019-02-15 14:45:00 --> Severity: Notice --> Undefined variable: nama_pelanggan D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 16
+ERROR - 2019-02-15 14:45:12 --> Severity: Warning --> extract() expects parameter 1 to be array, object given D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 2
+ERROR - 2019-02-15 14:45:12 --> Severity: Notice --> Undefined variable: nama_pelanggan D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 16
+ERROR - 2019-02-15 14:48:17 --> Severity: Notice --> Undefined variable: telepon D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 21
+ERROR - 2019-02-15 14:50:31 --> Severity: Notice --> Undefined variable: foto_lama D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 27
+ERROR - 2019-02-15 14:53:38 --> Severity: Notice --> Undefined variable: brand_meter_awal D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 34
+ERROR - 2019-02-15 14:53:38 --> Severity: Notice --> Undefined variable: brand_meter_baru D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 34
+ERROR - 2019-02-15 14:57:50 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 14:57:50 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 14:58:18 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 14:58:18 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 14:58:18 --> Severity: Error --> Call to undefined function assets_url() D:\Development\htdocs\pdam\apps\views\errors\html\error_404.php 31
+ERROR - 2019-02-15 15:05:34 --> Query error: Table 'pdam.t_pergantian' doesn't exist - Invalid query: INSERT INTO `t_pergantian` (`kode_pergantian`) VALUES (NULL)
+ERROR - 2019-02-15 15:05:58 --> Query error: Table 'pdam.t_pergantian' doesn't exist - Invalid query: UPDATE `t_pergantian` SET `verifikasi_selesai` = 1, `kode_pergantian` = '1'
+WHERE `kode_pergantian` = '1'
+ERROR - 2019-02-15 15:06:02 --> Query error: Table 'pdam.t_pergantian' doesn't exist - Invalid query: UPDATE `t_pergantian` SET `verifikasi_selesai` = 1, `kode_pergantian` = '2'
+WHERE `kode_pergantian` = '2'
