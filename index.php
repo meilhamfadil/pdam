@@ -115,6 +115,7 @@ switch (ENVIRONMENT)
  * NO TRAILING SLASH!
  */
 	$application_folder = 'apps';
+	$doc_folder = 'docs';
 
 /*
  *---------------------------------------------------------------
@@ -267,6 +268,7 @@ switch (ENVIRONMENT)
 	}
 
 	define('APPPATH', $application_folder.DIRECTORY_SEPARATOR);
+	define('DOCPATH', $doc_folder.DIRECTORY_SEPARATOR);
 
 	// The path to the "views" directory
 	if ( ! isset($view_folder[0]) && is_dir(APPPATH.'views'.DIRECTORY_SEPARATOR))

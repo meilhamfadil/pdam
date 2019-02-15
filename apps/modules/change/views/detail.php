@@ -28,9 +28,9 @@
 				<th class="text-center">Kondisi Awal</th><td></td><th class="text-center">Kondisi Baru</th>
 			</tr>
 			<tr>
-				<td><?= image($foto_awal) ?></td>
+				<td class="text-center"><?= image($foto_awal) ?></td>
 				<td></td>
-				<td><?= image($foto_baru) ?></td>
+				<td class="text-center"><?= image($foto_baru) ?></td>
 			</tr>
 			<tr>
 				<td class="text-center">Meter Awal : <?= $angka_awal ?></td><td></td><td class="text-center">Meter Baru : <?= $angka_baru ?></td>

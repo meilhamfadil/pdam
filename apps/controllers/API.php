@@ -15,12 +15,39 @@
 			$this->format($data);
 		}
 
-		function pelanggan_put() {
+		function pelanggan_post() {
+			$config['upload_path'] = DOCPATH . 'dokumentasi';
+			$config['allowed_types'] = 'gif|jpg|png';
+			$config['max_size'] = 1000;
+			$this->load->library('upload', $config);
+
+			$foto = array();
+			$no = 0;
+			foreach($_FILES["images"]["name"] as $image){
+				$_FILES['file']['name'] = $_FILES['images']['name'][$no];
+				$_FILES['file']['type'] = $_FILES['images']['type'][$no];
+				$_FILES['file']['tmp_name'] = $_FILES['images']['tmp_name'][$no];
+				$_FILES['file']['error'] = $_FILES['images']['error'][$no];
+				$_FILES['file']['size'] = $_FILES['images']['size'][$no];
+				$fileName = date("YmdHis") . ".jpg";
+				$foto[] = $fileName;
+				$config['file_name'] = $fileName;
+				$this->upload->initialize($config);
+				if ($this->upload->do_upload('file')) {
+					$this->upload->data();
+				} else {
+					return false;
+				}
+				$no++;
+			}
+			
 			$datatoupdate["kode_pergantian"] = $this->post("kode_pergantian");
-			$datatoupdate["watermeter_awal"] = $this->post("kode_pergantian");
-			$datatoupdate["watermeter_baru"] = $this->post("kode_pergantian");
-			$datatoupdate["angka_awal"] = $this->post("kode_pergantian");
-			$datatoupdate["angka_baru"] = $this->post("kode_pergantian");
+			$datatoupdate["watermeter_awal"] = $this->post("watermeter_awal");
+			$datatoupdate["watermeter_baru"] = $this->post("watermeter_baru");
+			$datatoupdate["angka_awal"] = $this->post("angka_awal");
+			$datatoupdate["angka_baru"] = $this->post("angka_baru");
+			$datatoupdate["foto_awal"] = "dokumentasi/" . $foto[0];
+			$datatoupdate["foto_baru"] = "dokumentasi/" . $foto[1];
 			db_put("t_meter_change", $datatoupdate, $this->post("kode_pergantian"), "kode_pergantian");
 			$this->format(collect()->vpergantian(array("kode_pergantian" => $this->post("kode_pergantian"))));
 		}
@@ -44,22 +71,6 @@
 			db_put("t_meter_change", $datatoupdate, $this->post("kode_pergantian"), "kode_pergantian");
 			$this->format(collect()->vpergantian(array("kode_pergantian" => $this->post("kode_pergantian"))));
 		}
-		
-        function pelanggan_post($table = '') {
-            $insert = $this->db->insert($table, $this->post());
-            $id = $this->db->insert_id();
-            if ($insert) {
-                $response = array(
-                    'data' => $this->post(),
-                    'table' => $table,
-                    'id' => $id,
-                    'status' => 'success'
-                    );
-				$this->format($data);
-            } else {
-                $this->format(null, 502, "failed");
-            }
-        }
 		
 		private function format($data, $code = 200, $message = "success"){
 			$this->response(array(

@@ -208,3 +208,314 @@ ERROR - 2019-02-15 15:05:58 --> Query error: Table 'pdam.t_pergantian' doesn't e
 WHERE `kode_pergantian` = '1'
 ERROR - 2019-02-15 15:06:02 --> Query error: Table 'pdam.t_pergantian' doesn't exist - Invalid query: UPDATE `t_pergantian` SET `verifikasi_selesai` = 1, `kode_pergantian` = '2'
 WHERE `kode_pergantian` = '2'
+ERROR - 2019-02-15 15:24:36 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:24:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:25:22 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:25:22 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:25:50 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:25:50 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:25:59 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:25:59 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:26:33 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:26:33 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:26:52 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:26:52 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:27:28 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:27:28 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:27:43 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:27:43 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:28:13 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:28:13 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:38 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:38 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:39 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:39 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:42 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:42 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:29:54 --> Severity: Notice --> Undefined index: images D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:29:54 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:30:08 --> Severity: Compile Error --> Cannot redeclare Api::pelanggan_post() D:\Development\htdocs\pdam\apps\controllers\API.php 80
+ERROR - 2019-02-15 15:30:10 --> Severity: Compile Error --> Cannot redeclare Api::pelanggan_post() D:\Development\htdocs\pdam\apps\controllers\API.php 80
+ERROR - 2019-02-15 15:30:17 --> Severity: Compile Error --> Cannot redeclare Api::pelanggan_post() D:\Development\htdocs\pdam\apps\controllers\API.php 80
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 35
+ERROR - 2019-02-15 15:30:31 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 36
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: files D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:30:49 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:31:05 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:31:16 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:31:57 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:10 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:32:22 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:32:38 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:32:58 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:33:22 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:33:38 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:33:55 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:33:55 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:33:55 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:33:55 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:33:55 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:33:55 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:33:55 --> Severity: Notice --> Undefined variable: image D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:34:45 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:34:45 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:34:45 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:34:45 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:34:45 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:34:45 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:34:45 --> Severity: Notice --> Undefined variable: image D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:35:08 --> Severity: Notice --> Undefined variable: name D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:35:08 --> Severity: Notice --> Undefined index:  D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:35:08 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:35:08 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:35:08 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:35:08 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:35:08 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:35:08 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:35:08 --> Severity: Notice --> Undefined variable: image D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:35:14 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:35:14 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:35:14 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:35:14 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:35:14 --> Severity: Warning --> Illegal offset type D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:35:14 --> Severity: Notice --> Undefined variable: title D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:35:14 --> Severity: Notice --> Undefined variable: image D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:36:56 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:36:56 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:36:56 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:36:56 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:36:56 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:37:08 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:37:08 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:37:08 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:37:08 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:37:08 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:37:25 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:37:25 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:37:25 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:37:25 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:37:25 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:37:40 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:37:40 --> Severity: Notice --> Undefined index: type D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:37:40 --> Severity: Notice --> Undefined index: tmp_name D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:37:40 --> Severity: Notice --> Undefined index: error D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:37:40 --> Severity: Notice --> Undefined index: size D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:38:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:38:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:38:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:38:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:38:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:38:24 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:38:24 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:38:24 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:38:24 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:38:24 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:39:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:39:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:39:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:39:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:39:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:39:27 --> Severity: Notice --> Undefined index: name D:\Development\htdocs\pdam\vendor\ci\libraries\Upload.php 459
+ERROR - 2019-02-15 15:39:34 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:39:34 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:39:34 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:39:34 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:39:34 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:40:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:40:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:40:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:23 --> Severity: Notice --> Undefined offset: -1 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:23 --> Severity: Notice --> Undefined offset: -1 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:40:23 --> Severity: Notice --> Undefined offset: -1 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:40:23 --> Severity: Notice --> Undefined offset: -1 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:40:23 --> Severity: Notice --> Undefined offset: -1 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:29 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:29 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:40:29 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:40:29 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:40:29 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:40:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:40:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:40:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:40:54 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:54 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:54 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:40:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:40:55 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:40:55 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:40:55 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:40:55 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:41:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:41:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:41:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:41:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:41:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:41:57 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:41:57 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:41:57 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:41:57 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:41:57 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:42:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:42:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:42:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:42:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:42:16 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:42:26 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:42:26 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:42:26 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:42:26 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:42:26 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:42:40 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:42:40 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:42:40 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:42:40 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:42:40 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:43:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:43:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:43:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:43:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:43:04 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:43:15 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:43:15 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:43:15 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:43:15 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:43:15 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:43:25 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:43:25 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:43:25 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:43:25 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:43:25 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:43:42 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:43:42 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:43:42 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:43:42 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:43:42 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:43:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:43:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:43:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:43:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:43:54 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:44:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:44:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:44:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:44:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:44:07 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:45:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 27
+ERROR - 2019-02-15 15:45:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 28
+ERROR - 2019-02-15 15:45:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 29
+ERROR - 2019-02-15 15:45:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:45:41 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:48:27 --> Severity: Notice --> Undefined index: images[] D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:48:27 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:48:55 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Array to string conversion D:\Development\htdocs\pdam\apps\controllers\API.php 26
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 30
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:49:12 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:49:28 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:49:28 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:49:28 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:49:28 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:49:28 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 35
+ERROR - 2019-02-15 15:50:01 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:50:01 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:50:01 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:50:01 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:50:01 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 35
+ERROR - 2019-02-15 15:50:19 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 31
+ERROR - 2019-02-15 15:50:19 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:50:19 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:50:19 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:50:19 --> Severity: Notice --> Undefined offset: 2 D:\Development\htdocs\pdam\apps\controllers\API.php 35
+ERROR - 2019-02-15 15:51:14 --> Severity: Notice --> Undefined index: images[] D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:51:23 --> Severity: Notice --> Undefined index: nama D:\Development\htdocs\pdam\apps\controllers\API.php 25
+ERROR - 2019-02-15 15:51:49 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\controllers\API.php 32
+ERROR - 2019-02-15 15:51:49 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\controllers\API.php 33
+ERROR - 2019-02-15 15:51:49 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\controllers\API.php 34
+ERROR - 2019-02-15 15:51:49 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\controllers\API.php 35
+ERROR - 2019-02-15 15:51:49 --> Severity: Notice --> Undefined offset: 3 D:\Development\htdocs\pdam\apps\controllers\API.php 36
+ERROR - 2019-02-15 15:53:33 --> Query error: Column 'watermeter_awal' cannot be null - Invalid query: INSERT INTO `t_meter_change` (`kode_pergantian`, `watermeter_awal`, `watermeter_baru`, `angka_awal`, `angka_baru`, `foto_awal`, `foto_baru`) VALUES (NULL, NULL, NULL, NULL, NULL, 'dokumentasi/20190215155333.jpg', 'dokumentasi/20190215155333.jpg')
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: nama_pelanggan D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 18
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: alamat D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 21
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: telepon D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 24
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: foto_awal D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 31
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: foto_baru D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 33
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: angka_awal D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 36
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: angka_baru D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 36
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: brand_watermeter_awal D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 39
+ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: brand_watermeter_baru D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 39
+ERROR - 2019-02-15 15:55:57 --> Severity: Error --> Using $this when not in object context D:\Development\htdocs\pdam\apps\helpers\db_helper.php 33
