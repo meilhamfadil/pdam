@@ -11,7 +11,7 @@
         }
 
         function pelanggan_get($id = "") {
-			$data = collect()->v_pelanggan(($id == '') ? null : array("kode_pelanggan" => $id));
+			$data = collect()->vpergantian(($id == '') ? null : array("kode_pergantian" => $id));
 			$this->format($data);
 		}
 

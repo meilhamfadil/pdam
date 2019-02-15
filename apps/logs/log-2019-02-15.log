@@ -519,3 +519,7 @@ ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: angka_b
 ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: brand_watermeter_awal D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 39
 ERROR - 2019-02-15 15:53:57 --> Severity: Notice --> Undefined variable: brand_watermeter_baru D:\Development\htdocs\pdam\apps\modules\change\views\detail.php 39
 ERROR - 2019-02-15 15:55:57 --> Severity: Error --> Using $this when not in object context D:\Development\htdocs\pdam\apps\helpers\db_helper.php 33
+ERROR - 2019-02-15 16:20:14 --> Query error: Table 'pdam.v_pelanggan' doesn't exist - Invalid query: SELECT *
+FROM `v_pelanggan`
+ERROR - 2019-02-15 16:20:26 --> Query error: Table 'pdam.vpelanggan' doesn't exist - Invalid query: SELECT *
+FROM `vpelanggan`
