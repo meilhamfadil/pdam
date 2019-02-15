@@ -1,0 +1,3 @@
+ERROR - 2019-01-22 08:41:04 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-22 08:41:05 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-22 08:41:05 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31

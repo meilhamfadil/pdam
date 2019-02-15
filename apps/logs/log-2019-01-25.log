@@ -1,0 +1,141 @@
+ERROR - 2019-01-25 09:34:00 --> 404 Page Not Found: ../modules/profile/controllers/Profile/update
+ERROR - 2019-01-25 09:34:00 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 09:34:05 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 0 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 25
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 25
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 0 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 28
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 28
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 0 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 2 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:39 --> Severity: Notice --> Undefined offset: 3 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:55 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 25
+ERROR - 2019-01-25 09:41:55 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 28
+ERROR - 2019-01-25 09:41:55 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:55 --> Severity: Notice --> Undefined offset: 2 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:41:55 --> Severity: Notice --> Undefined offset: 3 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:42:37 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 25
+ERROR - 2019-01-25 09:42:37 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 28
+ERROR - 2019-01-25 09:42:37 --> Severity: Notice --> Undefined offset: 1 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:42:37 --> Severity: Notice --> Undefined offset: 2 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 09:42:37 --> Severity: Notice --> Undefined offset: 3 C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\profile\controllers\Profile.php 30
+ERROR - 2019-01-25 18:50:26 --> Severity: Notice --> Array to string conversion C:\xampp_5.6\htdocs\masagi\watchlog\apps\helpers\function_helper.php 34
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: mtoggle C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: mtoggle C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: mtoggle C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: mtoggle C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: mtoggle C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2019-01-25 18:50:44 --> Severity: Notice --> Undefined variable: breadcrumb C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\default.php 28
+ERROR - 2019-01-25 18:50:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\template\default.php 28
+ERROR - 2019-01-25 18:50:45 --> 404 Page Not Found: ../modules/rules/controllers/Rules/assets
+ERROR - 2019-01-25 18:50:45 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 18:51:11 --> 404 Page Not Found: ../modules/rules/controllers/Rules/assets
+ERROR - 2019-01-25 18:51:11 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 18:53:41 --> Severity: Warning --> Missing argument 2 for widget(), called in C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php on line 32 and defined C:\xampp_5.6\htdocs\masagi\watchlog\apps\helpers\function_helper.php 45
+ERROR - 2019-01-25 18:53:41 --> Severity: Notice --> Undefined variable: data C:\xampp_5.6\htdocs\masagi\watchlog\apps\helpers\function_helper.php 46
+ERROR - 2019-01-25 18:53:41 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:53:41 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:54:06 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:54:06 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:54:24 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:54:24 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:54:37 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:54:37 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:54:53 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:54:53 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:55:18 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:55:18 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:55:23 --> Severity: Warning --> Illegal string offset 'table' C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 13
+ERROR - 2019-01-25 18:55:23 --> Severity: Notice --> Array to string conversion C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 13
+ERROR - 2019-01-25 18:55:23 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:55:23 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:56:05 --> Severity: Warning --> Illegal string offset 'table' C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 13
+ERROR - 2019-01-25 18:56:05 --> Severity: Notice --> Array to string conversion C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 13
+ERROR - 2019-01-25 18:56:05 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:56:05 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:58:01 --> Severity: Warning --> array_push() expects parameter 1 to be array, string given C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 20
+ERROR - 2019-01-25 18:58:01 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:58:01 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:59:33 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 18:59:33 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:59:41 --> Severity: Notice --> Undefined variable: table C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:59:51 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 18:59:51 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 19:02:37 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 19:02:37 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 19:02:42 --> Severity: Parsing Error --> syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '$' C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 19:03:35 --> Severity: Notice --> Array to string conversion C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 1
+ERROR - 2019-01-25 19:03:35 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 19:04:08 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 9
+ERROR - 2019-01-25 19:06:09 --> Severity: Warning --> extract() expects parameter 1 to be array, string given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 19:06:09 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:06:09 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:06:27 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 19:06:27 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:06:27 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:06:40 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 19:06:40 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:06:40 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:06:58 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 3
+ERROR - 2019-01-25 19:06:58 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:06:58 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:07:17 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:07:17 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:07:17 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 8
+ERROR - 2019-01-25 19:07:19 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:07:19 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:07:19 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 8
+ERROR - 2019-01-25 19:07:26 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:07:26 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:07:26 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 8
+ERROR - 2019-01-25 19:07:32 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:07:32 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:07:32 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 8
+ERROR - 2019-01-25 19:07:59 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:07:59 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:07:59 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 9
+ERROR - 2019-01-25 19:08:00 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:08:00 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:08:00 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 9
+ERROR - 2019-01-25 19:08:01 --> Severity: Warning --> extract() expects parameter 1 to be array, null given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:08:01 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:08:01 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 9
+ERROR - 2019-01-25 19:08:29 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 5
+ERROR - 2019-01-25 19:08:29 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 7
+ERROR - 2019-01-25 19:08:29 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 9
+ERROR - 2019-01-25 19:09:48 --> Severity: Notice --> Undefined variable: id C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 4
+ERROR - 2019-01-25 19:09:48 --> Severity: Notice --> Undefined variable: column C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 6
+ERROR - 2019-01-25 19:11:15 --> Severity: Error --> Call to undefined function table() C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 32
+ERROR - 2019-01-25 19:28:56 --> Severity: Notice --> Undefined variable: data C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 19:28:56 --> Severity: Notice --> Undefined variable: data C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 19:28:56 --> Severity: Notice --> Undefined variable: data C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 19:28:56 --> Severity: Notice --> Undefined variable: data C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 19:53:44 --> Severity: Error --> Class 'dHTML' not found C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 32
+ERROR - 2019-01-25 20:10:49 --> Severity: Error --> Call to undefined method HTmlTag::td() C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 20:10:59 --> Severity: Error --> Call to undefined method HTmlTag::td() C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\rules\views\form.php 33
+ERROR - 2019-01-25 20:11:25 --> Severity: Notice --> Use of undefined constant self - assumed 'self' C:\xampp_5.6\htdocs\masagi\watchlog\apps\libraries\HtmlTag.php 8
+ERROR - 2019-01-25 20:11:54 --> Severity: Runtime Notice --> Non-static method HTmlTag::go() should not be called statically C:\xampp_5.6\htdocs\masagi\watchlog\apps\libraries\HtmlTag.php 8
+ERROR - 2019-01-25 20:11:54 --> Severity: Runtime Notice --> Non-static method HTmlTag::go() should not be called statically C:\xampp_5.6\htdocs\masagi\watchlog\apps\libraries\HtmlTag.php 8
+ERROR - 2019-01-25 20:13:01 --> Severity: Error --> Access to undeclared static property: HTmlTag::$instance C:\xampp_5.6\htdocs\masagi\watchlog\apps\libraries\HtmlTag.php 12
+ERROR - 2019-01-25 20:23:46 --> 404 Page Not Found: 
+ERROR - 2019-01-25 20:23:46 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:23:46 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:23:47 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:28:33 --> 404 Page Not Found: 
+ERROR - 2019-01-25 20:28:33 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:28:34 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:28:50 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 20:28:52 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 20:29:11 --> Severity: Parsing Error --> syntax error, unexpected ',' C:\xampp_5.6\htdocs\masagi\watchlog\apps\modules\home\controllers\Home.php 20
+ERROR - 2019-01-25 20:29:22 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 20:29:46 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 20:29:51 --> Severity: Warning --> explode() expects parameter 2 to be string, array given C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\widgets\table.php 2
+ERROR - 2019-01-25 20:31:27 --> 404 Page Not Found: 
+ERROR - 2019-01-25 20:31:27 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:31:27 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:31:33 --> 404 Page Not Found: 
+ERROR - 2019-01-25 20:31:33 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 20:31:33 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 22:18:37 --> 404 Page Not Found: 
+ERROR - 2019-01-25 22:18:37 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2019-01-25 22:18:38 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\masagi\watchlog\apps\views\errors\html\error_404.php 31

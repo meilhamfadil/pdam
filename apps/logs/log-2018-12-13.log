@@ -1,0 +1,281 @@
+ERROR - 2018-12-13 16:27:41 --> Severity: Error --> Call to undefined function aray() C:\xampp_5.6\htdocs\watchlog\application\modules\home\controllers\Home.php 33
+ERROR - 2018-12-13 16:27:42 --> Severity: Error --> Call to undefined function aray() C:\xampp_5.6\htdocs\watchlog\application\modules\home\controllers\Home.php 33
+ERROR - 2018-12-13 16:27:43 --> Severity: Error --> Call to undefined function aray() C:\xampp_5.6\htdocs\watchlog\application\modules\home\controllers\Home.php 33
+ERROR - 2018-12-13 17:05:49 --> Severity: Parsing Error --> syntax error, unexpected 'fuction' (T_STRING), expecting variable (T_VARIABLE) C:\xampp_5.6\htdocs\watchlog\application\modules\home\controllers\Home.php 6
+ERROR - 2018-12-13 17:05:50 --> Severity: Parsing Error --> syntax error, unexpected 'fuction' (T_STRING), expecting variable (T_VARIABLE) C:\xampp_5.6\htdocs\watchlog\application\modules\home\controllers\Home.php 6
+ERROR - 2018-12-13 19:59:00 --> Severity: Notice --> Undefined variable: table_id C:\xampp_5.6\htdocs\watchlog\apps\views\widgets\table.php 1
+ERROR - 2018-12-13 20:03:12 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:03:12 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:03:12 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:03:15 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:03:15 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:14 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:20 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:20 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 6
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:09:21 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:21 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:27 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:28 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:28 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:29 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:09:29 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Notice --> Undefined variable: base C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 14
+ERROR - 2018-12-13 20:09:29 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:10:06 --> Severity: Runtime Notice --> Only variables should be assigned by reference C:\xampp_5.6\htdocs\watchlog\apps\helpers\function_helper.php 13
+ERROR - 2018-12-13 20:16:33 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:16:33 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:16:33 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:16:33 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:16:33 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:16:33 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:19 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:19 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:19 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:19 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:19 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:19 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:43 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: tautan C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 6
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:43 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:43 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:43 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:17:43 --> Severity: Warning --> extract() expects parameter 1 to be array, object given C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 5
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 7
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: toggle C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 8
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: kode C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 14
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: ikon C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 15
+ERROR - 2018-12-13 20:17:43 --> Severity: Notice --> Undefined variable: nama C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 16
+ERROR - 2018-12-13 20:20:43 --> Severity: Parsing Error --> syntax error, unexpected '(Array)' (array) (T_ARRAY_CAST) C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 4
+ERROR - 2018-12-13 20:20:52 --> Severity: Parsing Error --> syntax error, unexpected '(array)' (array) (T_ARRAY_CAST) C:\xampp_5.6\htdocs\watchlog\apps\views\template\sidebar.php 4
+ERROR - 2018-12-13 20:21:14 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:21:15 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:25:02 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:26:06 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:06 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:06 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:06 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:06 --> Severity: Notice --> Undefined variable: kode_device C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 21
+ERROR - 2018-12-13 20:26:06 --> Severity: Notice --> Undefined variable: nama_device C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 26
+ERROR - 2018-12-13 20:26:06 --> Severity: Notice --> Undefined variable: nama_file C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 32
+ERROR - 2018-12-13 20:26:07 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:26:08 --> Severity: Error --> Call to undefined function assets_url() C:\xampp_5.6\htdocs\watchlog\apps\views\errors\html\error_404.php 31
+ERROR - 2018-12-13 20:26:13 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:13 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:13 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:13 --> Severity: Warning --> Illegal offset type C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 8
+ERROR - 2018-12-13 20:26:13 --> Severity: Notice --> Undefined variable: kode_device C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 21
+ERROR - 2018-12-13 20:26:13 --> Severity: Notice --> Undefined variable: nama_device C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 26
+ERROR - 2018-12-13 20:26:13 --> Severity: Notice --> Undefined variable: nama_file C:\xampp_5.6\htdocs\watchlog\apps\modules\rules\views\form.php 32
+ERROR - 2018-12-13 20:56:13 --> Severity: Notice --> Undefined index: id C:\xampp_5.6\htdocs\watchlog\apps\views\widgets\table.php 1
+ERROR - 2018-12-13 20:56:13 --> Severity: Notice --> Undefined index: column C:\xampp_5.6\htdocs\watchlog\apps\views\widgets\table.php 3
+ERROR - 2018-12-13 20:59:21 --> Severity: Notice --> Undefined index:  C:\xampp_5.6\htdocs\watchlog\apps\libraries\Datatable.php 210
+ERROR - 2018-12-13 20:59:21 --> Severity: Notice --> Undefined index:  C:\xampp_5.6\htdocs\watchlog\apps\libraries\Datatable.php 210
